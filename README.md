@@ -1,6 +1,6 @@
 # Trillo Booking App Project
 
-### A travel booking page for the fictional company: Trillo. Built entirely out of HTML & CSS using flexbox to design the layout. 
+### A travel booking page for the fictional company: Trillo. Built entirely out of HTML & SCSS using flexbox to design the layout. 
 
 This project is still in progress - Responsive elements coming soon.
 
