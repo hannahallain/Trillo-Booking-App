@@ -1,0 +1,21 @@
+
+//SMALL DESKTOP: 1200px = 75em
+// @media only screen and (max-width: 75em) 
+$bp-desktop: 75em;
+
+//TAB LAND: 1100px = 68.75em 
+//@media only screen and (max-width: 68.75em) 
+$bp-tab-land: 68.75em;
+
+
+//TAB PORT: 900px = 56.25
+//@media only screen and (max-width: 56.25em) 
+$bp-tab-port: 56.25em;
+
+//PHONE: 600px = 37.5
+//@media only screen and (max-width: 37.5em) 
+$bp-mobile: 37.5em;
+
+//SMALL PHONE: 450px = 28.125
+//@media only screen and (max-width: 28.125em) 
+$bp-sm-mobile: 28.125em;
